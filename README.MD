@@ -23,6 +23,7 @@ Instalar NodeJS y NPM con NVM (Recomendado): [Tutorial](https://tecadmin.net/ins
 
 Ejecuta la aplicación Web
 `cd webapp-react`
+`npm install`
 `npm start`
 
 En el navegador abrir [https://localhost:3000](https://localhost:3000)
